@@ -4,4 +4,3 @@ pandas
 streamlit
 schedule
 pytz
-unicodedata
