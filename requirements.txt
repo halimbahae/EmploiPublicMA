@@ -4,5 +4,4 @@ pandas
 streamlit
 schedule
 pytz
-re
 unicodedata
